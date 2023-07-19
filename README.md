@@ -76,7 +76,7 @@ Libraries:
 
 
 ## Screen Recording
-The screen recording can be found [![here](https://img.youtube.com/vi/wD-X1t2tY_E/0.jpg)](https://www.youtube.com/watch?v=wD-X1t2tY_E)
+[![here](https://img.youtube.com/vi/wD-X1t2tY_E/0.jpg)](https://www.youtube.com/watch?v=wD-X1t2tY_E)
 
 
 ## Team Eternamax
