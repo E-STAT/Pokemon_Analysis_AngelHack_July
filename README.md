@@ -61,16 +61,18 @@ Libraries:
 
 ## Insights
 
-* There are 1194 unique Pokemons. Water dominates the primary type while the least represented primary type is flying.
+*  There are 1194 unique Pokemons and 18 different Pokemon types.
+*  Water dominates the primary type while the least represented primary type is flying.
 *  While flying is the least represented primary type, it is the most represented secondary type.
-*  54.6% of the Pokemons have a secondary type while 45.4% have no secondary type. Among the pokemons with secodary type. While water dominates the count for pokemons with a secondary type, it only has 46% of Pokemons with a secondary type. Dragon dominates the Pokemons with a secondary type (73.5%)
-* Higher number of Pokemons are in cluster 2 while lesser number is in cluster 5. However, cluster 2 is the least performing cluster based on average of all metrics used.
-* Cluster 3 is the overall best performing cluster on average (best in Attack, Special Attack and Speed while coming up as 1st runner up for other battle metrics). Cluster 3 is dominated by Pokemons with primary type as Dragons and Psychic 
-* Cluster 5 is best in defence but least in speed. This explains why Pokemons with primary type Steel and Rock dominates cluster 5.
-* Cluster 1 is best in Hit-point while cluster 0 is best in special defence
-*  Pokemons with flying as primary type are relatively
-*  Pokemons in cluster 3 have more highest percentage of pokemons with a secondary type (78%) while Pokemons in cluster 2 have the least percentage (26.7%). This could mean that having a secondary type gives Pokemons more advantage against opponents.
-*  While Psychic is among top representatives in cluster 3. Psychic also have significant members in cluster 2. Also, The Mega are stronger than their base forms.
+*  54.6% of the Pokemons have a secondary type while 45.4% have no secondary type.
+*   While water dominates the count for Pokemons with a secondary type, it only has 46% of Pokemons with a secondary type. Dragon dominates the Pokemon with a secondary type (73.5%)
+* Higher number of Pokemon are in cluster 2 while a lesser number is in cluster 5. However, cluster 2 is the least performing cluster based on the average of all metrics used.
+* Cluster 3 is the overall best-performing cluster on average (best in Attack, Special Attack and Speed while coming up as 1st runner up for other battle metrics). Cluster 3 is dominated by Pokemons with primary type as Dragons and Psychic 
+* Cluster 5 is best in defense but least in speed. This explains why Pokemons with primary type Steel and Rock dominate cluster 5.
+* Cluster 1 is best in Hit-point while cluster 0 is best in special defense
+*  Pokemons in cluster 3 have the highest percentage of pokemon with a secondary type (78%) while Pokemons in cluster 2 have the most minor percentage (26.7%). This could mean that having a secondary type gives Pokemons more advantage against opponents.
+*  While Psychic is among the top representatives in cluster 3. Psychics also have significant members in cluster 2.
+*  The Mega Pokemon are stronger than their base forms.
 
 
 ## Screen Recording
