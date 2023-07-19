@@ -48,6 +48,17 @@ Libraries:
 
 ## Data Preprocessing
 
+### Data Cleaning
+
+* Dropped redundant index column
+* Missing/Empty values in "Type2" column replaced with "None"
+* Repeating base names was removed
+
+### Feature Engineering
+* Added "Cluster" column for each pokemons based on the K-Means Clustering Algorithm
+* Added a new image url gotten from pokemondb.net for better visuals
+* Added a new column to recognize pokemons with secondary type
+
 ## Insights
 
 * There are 1194 unique Pokemons. Water dominates the primary type while the least represented primary type is flying.
