@@ -59,6 +59,7 @@ Libraries:
 * Cluster 1 is best in Hit-point while cluster 0 is best in special defence
 *  Pokemons with flying as primary type are relatively
 *  Pokemons in cluster 3 have more highest percentage of pokemons with a secondary type (78%) while Pokemons in cluster 2 have the least percentage (26.7%). This could mean that having a secondary type gives Pokemons more advantage against opponents.
+*  While Psychic is among top representatives in cluster 3. Psychic also have significant members in cluster 2. Also, The Mega are stronger than their base forms.
 
 
 ## Screen Recording
