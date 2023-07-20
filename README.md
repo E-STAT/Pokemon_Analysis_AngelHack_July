@@ -1,5 +1,5 @@
 # Pokemon Analysis
-
+![poke](poke.gif)
 
 ## Data Story To Be Told
 Welcome to the captivating realm of Pokémon, where extraordinary creatures with boundless potential and unique attributes roam. Our journey intertwines the magic of storytelling with the power of data-driven insights as we embark on a thrilling analysis project. Let us transcend beyond mere numbers and charts to unravel the very essence of these mythical beings and the wondrous adventures they inspire.
