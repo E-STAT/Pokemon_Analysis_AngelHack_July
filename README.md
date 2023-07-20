@@ -6,9 +6,9 @@ Welcome to the captivating realm of Pokémon, where extraordinary creatures with
 
 Objectives:
 
-* Explore the distribution of pokemons across different types
+* Explore the distribution of Pokemons across different types
 * Uncover attributes of the best set of Pokemon collections
-* Compare pairs of pokemons in preparation for battle
+* Compare pairs of Pokemons in preparation for battle
 
 
 ## Thought Process
@@ -51,13 +51,13 @@ Libraries:
 ### Data Cleaning
 
 * Dropped redundant index column
-* Missing/Empty values in "Type2" column replaced with "None"
+* Missing/Empty values in the "Type2" column replaced with "None"
 * Repeating base names was removed
 
 ### Feature Engineering
-* Added "Cluster" column for each pokemons based on the K-Means Clustering Algorithm
-* Added a new image url gotten from pokemondb.net for better visuals
-* Added a new column to recognize pokemons with secondary type
+* Added "Cluster" column for each Pokemon based on the K-Means Clustering Algorithm
+* Added a new image URL gotten from pokemondb.net for better visuals
+* Added a new column to recognize Pokemons with secondary type
 
 ## Insights
 
@@ -67,10 +67,11 @@ Libraries:
 *  54.6% of the Pokemons have a secondary type while 45.4% have no secondary type.
 *   While water dominates the count for Pokemons with a secondary type, it only has 46% of Pokemons with a secondary type. Dragon dominates the Pokemon with a secondary type (73.5%)
 * Higher number of Pokemon are in cluster 2 while a lesser number is in cluster 5. However, cluster 2 is the least performing cluster based on the average of all metrics used.
-* Cluster 3 is the overall best-performing cluster on average (best in Attack, Special Attack and Speed while coming up as 1st runner up for other battle metrics). Cluster 3 is dominated by Pokemons with primary type as Dragons and Psychic 
+* Cluster 3 is the overall best-performing cluster on average (best in Attack, Special Attack, and Speed while coming up as 1st runner-up for other battle metrics). Cluster 3 is dominated by Pokemons with primary type as Dragons and Psychic 
 * Cluster 5 is best in defense but least in speed. This explains why Pokemons with primary type Steel and Rock dominate cluster 5.
 * Cluster 1 is best in Hit-point while cluster 0 is best in special defense
-*  Pokemons in cluster 3 have the highest percentage of pokemon with a secondary type (78%) while Pokemons in cluster 2 have the most minor percentage (26.7%). This could mean that having a secondary type gives Pokemons more advantage against opponents.
+*  Pokemons in cluster 3 have the highest percentage of Pokemon with a secondary type (78%) while Pokemons in cluster 2 have the most minor percentage (26.7%). This could mean that having a secondary type gives Pokemons more advantage against opponents.
+*  Pokemons with Flying as the primary type are weak on Defense
 *  While Psychic is among the top representatives in cluster 3. Psychics also have significant members in cluster 2.
 *  The Mega Pokemon are stronger than their base forms.
 
